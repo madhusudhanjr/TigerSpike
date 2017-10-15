@@ -9,7 +9,7 @@ Check if the list for the searched text is displayed correctly on the screen by 
 
 # Tech Stack details:
 
-Created couple of tests for the Repayments Calculator and Borrowing Calculator UI component in the manner it is intended.
+Created a Cucumber Feature file with a Scenario to verify the UI list item titles with that from the API endpoitn in the manner it is intended.
 
 1. Project Type: Maven
 2. Tool: 
